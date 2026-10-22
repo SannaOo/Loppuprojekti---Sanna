@@ -12,13 +12,13 @@ Writing in Markdown is not that hard!
 
  Header one 
 
-Header two 
+##Header two 
 
-Header three 
+###Header three 
 
-Header four 
+####Header four 
 
-Header five 
+#####Header five 
 
 Header six 
 
@@ -27,12 +27,12 @@ Colombian Symbolism in One Hundred Years of Solitude
 -Verkkosivut
 
 Here's some words about the book One Hundred Years.... 
-[Search for it.] (www.google.com) 
-[You're really, really going to want to see this.] (www.dailykitten.com)
+[Search for it.](www.google.com) 
+[You're really, really going to want to see this.](www.dailykitten.com)
 
-The Latest News from the BBC( www.bbc.com/news:) 
+The Latest News from the BBC(www.bbc.com/news:) 
 
-[Do you want to [see a fun place]? (www.zombo.com) [Well, do I have the website for you][another fun place]!(www.stumbleupon.com) 
+[Do you want to [see a fun place]?(www.zombo.com) [Well, do I have the website for you][another fun place]!(www.stumbleupon.com) 
 
 -kuvat
 
@@ -40,7 +40,7 @@ The Latest News from the BBC( www.bbc.com/news:)
 
 [Orange cat][Orange] 
 
-![Black]: (https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg 
+![Black]:(https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg 
 
 ![kuva](tiikeri.png)
 
