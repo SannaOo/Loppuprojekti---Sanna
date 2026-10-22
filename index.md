@@ -40,7 +40,7 @@ Here's some words about the book One Hundred Years....
 
 [Orange cat][Orange] 
 
-![Black]:(https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg 
+![Black]:(https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg) 
 
 ![kuva](tiikeri.png)
 
@@ -96,12 +96,9 @@ Pour a gallon of milk into the bowl.
 
 +Dahlia (Coreopsideae Dahlia) 
 
-*Calculus 
++Calculus 
 
  
-
- 
-
 *A professor 
 
 *Has no hair 
@@ -119,17 +116,14 @@ Pour a gallon of milk into the bowl.
 
 -kappaleet-
 
- We pictured the meek mild creatures where. 
+ 
+We pictured the meek mild creatures where. 
 
 They dwelt in their strawy pen. 
 
 Nor did it occur to one of us there. 
 
 To doubt they were kneeling then. 
-
- 
-
-
 
 Basically, take the same guidance as above: don't be messy, but if you are, clean it up! 
 
