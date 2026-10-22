@@ -27,18 +27,24 @@ Colombian Symbolism in One Hundred Years of Solitude
 -Verkkosivut-
 
 Here's some words about the book One Hundred Years.... 
-[Search for it.](www.google.com) 
-[You're really, really going to want to see this](www.dailykitten.com)
+[Search for it.](www.google.com)(http://www.google.com/)
 
-[The Latest News from the BBC](www.bbc.com/news:) 
+[You're really, really going to want to see this](www.dailykitten.com)(https://dailykitten.com/)
 
-[Do you want to [see a fun place]?(www.zombo.com) [Well, do I have the website for you][another fun place]!(www.stumbleupon.com) 
+
+[The Latest News from the BBC](www.bbc.com/news:) (https://www.bbc.com/news)
+
+
+[Do you want to [see a fun place]?(www.zombo.com)https://zombo.com/)
+[Well, do I have the website for you][another fun place]!(www.stumbleupon.com)https://zombo.com/)
+
 
 -kuvat-
 
-[Black cat][black] 
+[Black cat][black](https://www.bing.com/aclick?ld=e8EdKvUrWYXFhMwdlZuW-a-zVUCUxZLjlZ_NHPlh6LfQHhmsXAQR1ldfIOVWYvkRuBqaqPK74NkXR3sOu0hVZu9qfremdatbv2YAWEVjLQHs0FimkQ7sufhcNyh5Ou_oL8viYWrequyWF3_nlRRlHPrFSc4Pkymj-16VuFdLDoGFrRKZ6CzWblILhAMCD55zySWh6x6mH-50AM_ua3rlF9Z_fdPiU&u=aHR0cHMlM2ElMmYlMmZldS5wdW1hLmNvbSUyZm5sJTJmbmwlMmZsaWZlc3R5bGUlMmZrbGVkaW5nJTJmc3dlYXRzaGlydHMtZW4taG9vZHlzJTNmdXRtX3NvdXJjZSUzZEJORyUyNm1zY2xraWQlM2QwNTk2MDZmODAyMmIxNTdhYmE1YzZjMjIzODM4NjVhNSUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RQU19CTkdfTkxfTkxfVFhUX0JyYW5kX0Nsb3RoaW5nX1NFQV9CUkFORCUyNnV0bV90ZXJtJTNkcHVtYSUyNTIwaG9vZGllJTI2dXRtX2NvbnRlbnQlM2ROTF9OTF9QU19UWFRfQnJhbmRfQ2xvdGhpbmdfSG9vZGllc19Ccm9hZA&rlid=059606f8022b157aba5c6c22383865a5)
 
-[Orange cat][Orange] 
+[Orange cat][Orange](https://yle.fi/a/74-20163848)
+
 
 ![Black]:(https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg) 
 
