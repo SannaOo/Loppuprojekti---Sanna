@@ -1,6 +1,6 @@
 ##<Sanna Ollanketo> web tehtävä
 
--kursivointi ja lihavointi-
+1.kursivointi ja lihavointi
 
 Writing in Markdown is not that hard!
  I will complete these lessons!
@@ -8,49 +8,42 @@ Writing in Markdown is not that hard!
  If you're thinking to yourself, This is unbelievable, you'd probably be right.
 
  
-- Otsikot -
+2.Otsikot 
 
 #Header one 
-
-##Header two 
-
+###Header two 
 ###Header three 
-
 ####Header four 
-
 #####Header five 
-
 ######Header six 
 
-Colombian Symbolism in One Hundred Years of Solitude 
+3. Colombian Symbolism in One Hundred Years of Solitude 
 
--Verkkosivut-
+4. Verkkosivut
 
 Here's some words about the book One Hundred Years.... 
 [Search for it.](www.google.com)(http://www.google.com/)
 
-[You're really, really going to want to see this](www.dailykitten.com)(https://dailykitten.com/)
+[You're **really, really** going to want to see this.](www.dailykitten.com)
 
+[****The Latest News from the BBC****](www.bbc.com/news:)
 
-[The Latest News from the BBC](www.bbc.com/news:) (https://www.bbc.com/news)
+Do you want to [see something fun]?[a fun place]: www.zombo.com
+Well, do I have [the website for you][another fun place]!: www.stumbleupon.com
 
+5. kuvat
 
-[Do you want to [see a fun place]?(www.zombo.com)https://zombo.com/)
-[Well, do I have the website for you][another fun place]!(www.stumbleupon.com)https://zombo.com/)
-
-
--kuvat-
-
-[Black cat][black](https://www.bing.com/aclick?ld=e8EdKvUrWYXFhMwdlZuW-a-zVUCUxZLjlZ_NHPlh6LfQHhmsXAQR1ldfIOVWYvkRuBqaqPK74NkXR3sOu0hVZu9qfremdatbv2YAWEVjLQHs0FimkQ7sufhcNyh5Ou_oL8viYWrequyWF3_nlRRlHPrFSc4Pkymj-16VuFdLDoGFrRKZ6CzWblILhAMCD55zySWh6x6mH-50AM_ua3rlF9Z_fdPiU&u=aHR0cHMlM2ElMmYlMmZldS5wdW1hLmNvbSUyZm5sJTJmbmwlMmZsaWZlc3R5bGUlMmZrbGVkaW5nJTJmc3dlYXRzaGlydHMtZW4taG9vZHlzJTNmdXRtX3NvdXJjZSUzZEJORyUyNm1zY2xraWQlM2QwNTk2MDZmODAyMmIxNTdhYmE1YzZjMjIzODM4NjVhNSUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RQU19CTkdfTkxfTkxfVFhUX0JyYW5kX0Nsb3RoaW5nX1NFQV9CUkFORCUyNnV0bV90ZXJtJTNkcHVtYSUyNTIwaG9vZGllJTI2dXRtX2NvbnRlbnQlM2ROTF9OTF9QU19UWFRfQnJhbmRfQ2xvdGhpbmdfSG9vZGllc19Ccm9hZA&rlid=059606f8022b157aba5c6c22383865a5)
-
-[Orange cat][Orange](https://yle.fi/a/74-20163848)
-
+![Orange cat][Orange](https://yle.fi/a/74-20163848)
+https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg
 
 ![Black]:(https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg) 
+https://upload.wikimedia.org/wikipedia/commons/4/4f/Kitty_emoji.png
 
 ![kuva](tiikeri.png)
+![Benjamin Bannekat](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 
--Lohkolainaukset
+
+6. Lohkolainaukset
 
 I read this interesting quote the other day: 
 
@@ -62,7 +55,7 @@ His father told him that story: his father looked at him through a glass: he had
 
 He was baby tuckoo. The moocow came down the road where Betty Byrne lived: she sold lemon platt. 
 
--Listat-
+7. Listat
 
   -Flour 
 
@@ -70,6 +63,7 @@ He was baby tuckoo. The moocow came down the road where Betty Byrne lived: she s
 
   -Tomatoes 
 
+- Resepti
 Cut the cheese 
 
 Slice the tomatoes 
@@ -94,7 +88,7 @@ If you do make a mess, use a towel to clean it up!
 
 Pour a gallon of milk into the bowl. 
 
-- Kukat-
+8. Kukat
   
 +Azalea (Ericaceae Rhododendron) 
 
@@ -102,21 +96,15 @@ Pour a gallon of milk into the bowl.
 
 +Dahlia (Coreopsideae Dahlia) 
 
-+Calculus 
 
- 
+
+*Calculus
 *A professor 
-
 *Has no hair 
-
 *Often wears green 
-
 *Castafiore 
-
 *An opera singer 
-
 *Has white hair 
-
 *Is very famous 
 
 
@@ -124,13 +112,9 @@ Pour a gallon of milk into the bowl.
 
  
 We pictured the meek mild creatures where. 
-
 They dwelt in their strawy pen. 
-
 Nor did it occur to one of us there. 
-
 To doubt they were kneeling then. 
-
 Basically, take the same guidance as above: don't be messy, but if you are, clean it up! 
 
 
