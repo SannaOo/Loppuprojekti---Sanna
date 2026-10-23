@@ -1,6 +1,6 @@
 ##<Sanna Ollanketo> web tehtävä
 
-1.kursivointi ja lihavointi
+-kursivointi ja lihavointi
 
 Writing in Markdown is not that hard!
  I will complete these lessons!
@@ -8,18 +8,23 @@ Writing in Markdown is not that hard!
  If you're thinking to yourself, This is unbelievable, you'd probably be right.
 
  
-2.Otsikot 
+-Otsikot 
 
 #Header one 
+
 ###Header two 
+
 ###Header three 
+
 ####Header four 
+
 #####Header five 
+
 ######Header six 
 
-3. Colombian Symbolism in One Hundred Years of Solitude 
+Colombian Symbolism in One Hundred Years of Solitude 
 
-4. Verkkosivut
+-Verkkosivut
 
 Here's some words about the book One Hundred Years.... 
 [Search for it.](www.google.com)(http://www.google.com/)
@@ -31,19 +36,18 @@ Here's some words about the book One Hundred Years....
 Do you want to [see something fun]?[a fun place]: www.zombo.com
 Well, do I have [the website for you][another fun place]!: www.stumbleupon.com
 
-5. kuvat
+-kuvat
 
-![Orange cat][Orange](https://yle.fi/a/74-20163848)
-https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg
+![Orange cat][Orange](https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg)
 
-![Black]:(https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg) 
+![Black cat][Black](https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg) 
+
 https://upload.wikimedia.org/wikipedia/commons/4/4f/Kitty_emoji.png
 
-![kuva](tiikeri.png)
 ![Benjamin Bannekat](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 
 
-6. Lohkolainaukset
+-Lohkolainaukset
 
 I read this interesting quote the other day: 
 
@@ -55,7 +59,7 @@ His father told him that story: his father looked at him through a glass: he had
 
 He was baby tuckoo. The moocow came down the road where Betty Byrne lived: she sold lemon platt. 
 
-7. Listat
+-Listat
 
   -Flour 
 
@@ -88,7 +92,7 @@ If you do make a mess, use a towel to clean it up!
 
 Pour a gallon of milk into the bowl. 
 
-8. Kukat
+-Kukat
   
 +Azalea (Ericaceae Rhododendron) 
 
