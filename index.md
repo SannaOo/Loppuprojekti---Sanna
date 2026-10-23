@@ -27,14 +27,14 @@ Colombian Symbolism in One Hundred Years of Solitude
 -Verkkosivut
 
 Here's some words about the book One Hundred Years.... 
-[Search for it.](www.google.com)(http://www.google.com/)
+[Search for it.](http://www.google.com/)
 
 [You're **really, really** going to want to see this.](www.dailykitten.com)
 
 [****The Latest News from the BBC****](www.bbc.com/news:)
 
-Do you want to [see something fun? a fun place]: www.zombo.com
-Well, do I have [the website for you another fun place]!: www.stumbleupon.com
+[Do you want to see something fun? a fun place](www.zombo.com)
+Well, do I have [the website for you another fun place!](www.stumbleupon.com)
 
 -kuvat
 
@@ -59,11 +59,11 @@ He was baby tuckoo. The moocow came down the road where Betty Byrne lived: she s
 
 -Listat
 
-  -Flour 
+  - Flour 
 
-  -Cheese 
+  - Cheese 
 
-  -Tomatoes 
+  - Tomatoes 
 
 - Resepti
 Cut the cheese 
