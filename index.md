@@ -10,17 +10,17 @@ Writing in Markdown is not that hard!
  
 -Otsikot 
 
-#Header one 
+# Header one 
 
-###Header two 
+### Header two 
 
-###Header three 
+### Header three 
 
-####Header four 
+#### Header four 
 
-#####Header five 
+##### Header five 
 
-######Header six 
+###### Header six 
 
 Colombian Symbolism in One Hundred Years of Solitude 
 
@@ -33,16 +33,14 @@ Here's some words about the book One Hundred Years....
 
 [****The Latest News from the BBC****](www.bbc.com/news:)
 
-Do you want to [see something fun]?[a fun place]: www.zombo.com
-Well, do I have [the website for you][another fun place]!: www.stumbleupon.com
+Do you want to [see something fun? a fun place]: www.zombo.com
+Well, do I have [the website for you another fun place]!: www.stumbleupon.com
 
 -kuvat
 
-![Orange cat][Orange](https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg)
+![Orange cat](https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg)
 
-![Black cat][Black](https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg) 
-
-https://upload.wikimedia.org/wikipedia/commons/4/4f/Kitty_emoji.png
+![Black cat](https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg) 
 
 ![Benjamin Bannekat](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 
